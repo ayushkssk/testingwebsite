@@ -1,0 +1,164 @@
+p {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    font-size: 100px;
+    color: #63260f;
+}
+
+body {
+    /* background: url(../images/pp.jpg); */
+    background-color: #ababab;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+footer {
+    margin: 50px;
+    font-size: medium;
+    text-align: center;
+}
+
+a {
+    margin: 10px;
+}
+
+header {
+    padding: 10px;
+    text-align: right;
+}
+
+body {
+    font-family: Arial;
+    color: white;
+    background-color: gray;
+}
+
+#foot {
+    color: white;
+    width: auto;
+}
+
+b {
+    color: #63260f
+}
+
+#head:hover {
+    color: green;
+    font-size: 40px;
+    text-align: center;
+}
+
+#Alert:hover {
+    color: rgb(197, 0, 0);
+    font-size: 40px;
+    text-align: center;
+}
+
+#para1 {
+    font-size: 20px;
+    color: white;
+    background-color: rgb(79, 30, 94);
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+}
+
+#table {
+    margin-left: 70%;
+}
+
+.title {
+    color: orange;
+}
+
+table,
+th,
+td {
+    border: 1px solid #683f7d;
+    text-align: right;
+    color: orange;
+}
+
+img {
+    margin-left: 4%;
+    padding: 20px 20px;
+    border: solid 8px rgb(98, 6, 126);
+    max-width: 201px;
+    float: left;
+    margin-right: 33px;
+}
+
+.summary {
+    color: orange;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(79, 30, 94);
+    margin-top: 5px;
+}
+
+ul:link {
+    color: red;
+}
+
+span {
+    width: 1px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#fb:hover {
+    font-size: 30px;
+    color: red;
+}
+
+#twitter:hover {
+    font-size: 30px;
+    color: red;
+}
+
+#telegram:hover {
+    font-size: 30px;
+    color: red;
+}
+
+nav {
+    margin: auto;
+}
+
+#head {
+    margin: 33px;
+    padding: 34px;
+    border: 4px solid rgb(79 30 94);
+    text-align: center;
+}
+
+#contect {
+    background-color: #4f1e5e;
+    color: #FFC107;
+}
+
+#ul {
+    color: rgb(31, 48, 204);
+    font-size: 40px;
+    text-align: center;
+}
+
+#h3 {
+    color: rgb(128 81 40 / 99%);
+    margin-left: 70%;
+}
